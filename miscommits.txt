@@ -1,0 +1,11 @@
+commit 291bd8567ac384115a59a6aa1265e4ec51283b56
+Author: marcobolanosfelix <marcobf1996@gmail.com>
+Date:   Thu Sep 12 12:20:21 2019 -0600
+
+    Encabezado principal en index
+
+commit a27c55b8868930089e360082c029ee1eb9f20315
+Author: marcobolanosfelix <marcobf1996@gmail.com>
+Date:   Wed Sep 11 12:51:49 2019 -0600
+
+    archivos iniciales
